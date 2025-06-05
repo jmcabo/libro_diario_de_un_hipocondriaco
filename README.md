@@ -23,7 +23,7 @@ Este es el primer borrador. La idea es destilar un montón de cosas que fui desc
 Este es el libro (BORRADOR 1, son 300 páginas u 800 páginas, depende de cantidad de letras por renglón, que tengo que reducir y sacar cosas en las que ya no creo, en un BORRADOR 2, y ampliar con explicaciones de paralelos a conceptos de INGENIERÍA, de cómo exactamente se explica cada descubrimiento o item. Lo de los RBC es una CADENA DE PRODUCCIÓN por ejemplo, hay conceptos que aprendí en electrónica, histéresis, pasa bajos, feedback como de un circuito con amplificador operacional, etc.):
 Esta es la parte que tipié en la computadora:
 
-            libro_diario_hipocondriaco_hasta_2025-06-05.txt
+            [libro_diario_hipocondriaco_hasta_2025-06-05.txt]
 
 
 Esta es la parte que tipié en mi celular, mientras además guardaba mis gastos, caminando con el perro, y leyendo papers en confiterías, a lo Hemingway, pero en el celu en vez de en la Moleskine. Tipeo a 50WPM en celular y a aprox 100 con picos de 120WPM en computadora:
