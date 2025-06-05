@@ -9,16 +9,16 @@ A continuación, lo mismo que puse en el blog:
 
 Este es el primer borrador. La idea es destilar un montón de cosas que fui descubriendo a medida que recuperaba mi salud de algunas cosas:
 
-Migrañas impredecibles, que te tachaban un día: No tengo más.
-Perdí el oído derecho un mes sin sonidos graves (meniere) y con un zumbido fuerte: Lo recuperé.
-Photophobia (evitaba luces fuertes, no podía ver el sol en reflejos de edificios, y al caminar no podía ver los semáforos nuevos de LED, y colores apagados): Ahora veo los colores bien (resaltados) y puedo ver las luces directamente.
-Sobrepeso (20kg de más): Ahora peso alrededor de 70kg, antes 90kg. En este momento, peso 73.1kg.
-Addicción a la cafeína (café 2 a 5 tazas, 3 botellitas de pepsi por día): Cero cafeína desde Enero 2023. Solo agua y soda. A veces limonada.
-Cigarrillos (Lucky strike, Gitanes, dos atados por día): Cero absolutamente cero cigarrillos desde Enero 2020.
-Músculos fofos: Ahora buenos brazos y gambas. Hago flexiones, abdominales, squats, y flexiones de vuelta y bicicleta. (30 de cada una, y bici 20 minutos, aunque a veces dejo de hacer todos los días.). Siempre fui fofo toda la vida.
-Extrasístoles. Responden a varias cosas. Hubo un momento en que eran VARIAS por hora. Ahora depende de si me porto mal con la dieta y ejercicio, son solo 1 por mes o 1 por día.
-Dieta: Comía comida de cumpleaños todos los días: Pizza, fideos, empanadas. Ahora como bifes, hamburguesas, patitas (son sanas para mí, son pollo picado con pan rallado, sin huevo la marca que compro, la marca que compro no le agregan sobrantes de pollo, solo pechuga), papas hervidas o papas fritas, arroz blanco (a veces mezclado con arroz negro), manzanas. (ÚLTIMAMENTE: 2025-06-05: estoy comiendo muy muy mal, con muchos postres y frutos secos, no me hacen bien, pero voy y vengo, dándome gustos para no bajonearme.).
-Humor estable: Esto depende también de sacar los obstáculos para la felicidad. Si tenés una canilla goteando, reparala. Si la guitarra está rota, pegala con una prensita. Sacá la entropía, manifestá el orden. Y tal vez la felicidad viene sola. Fijate: "Qué me falta?" [para ser feliz]. En realidad sería: qué hay roto ahora. Cuando reparaste todo, listo. Capaz se manifiesta la felicidad.
+- Migrañas impredecibles, que te tachaban un día: No tengo más.
+- Perdí el oído derecho un mes sin sonidos graves (meniere) y con un zumbido fuerte: Lo recuperé.
+- Photophobia (evitaba luces fuertes, no podía ver el sol en reflejos de edificios, y al caminar no podía ver los semáforos nuevos de LED, y colores apagados): Ahora veo los colores bien (resaltados) y puedo ver las luces directamente.
+- Sobrepeso (20kg de más): Ahora peso alrededor de 70kg, antes 90kg. En este momento, peso 73.1kg.
+- Addicción a la cafeína (café 2 a 5 tazas, 3 botellitas de pepsi por día): Cero cafeína desde Enero 2023. Solo agua y soda. A veces limonada.
+- Cigarrillos (Lucky strike, Gitanes, dos atados por día): Cero absolutamente cero cigarrillos desde Enero 2020.
+- Músculos fofos: Ahora buenos brazos y gambas. Hago flexiones, abdominales, squats, y flexiones de vuelta y bicicleta. (30 de cada una, y bici 20 minutos, aunque a veces dejo de hacer todos los días.). Siempre fui fofo toda la vida.
+- Extrasístoles. Responden a varias cosas. Hubo un momento en que eran VARIAS por hora. Ahora depende de si me porto mal con la dieta y ejercicio, son solo 1 por mes o 1 por día.
+- Dieta: Comía comida de cumpleaños todos los días: Pizza, fideos, empanadas. Ahora como bifes, hamburguesas, patitas (son sanas para mí, son pollo picado con pan rallado, sin huevo la marca que compro, la marca que compro no le agregan sobrantes de pollo, solo pechuga), papas hervidas o papas fritas, arroz blanco (a veces mezclado con arroz negro), manzanas. (ÚLTIMAMENTE: 2025-06-05: estoy comiendo muy muy mal, con muchos postres y frutos secos, no me hacen bien, pero voy y vengo, dándome gustos para no bajonearme.).
+- Humor estable: Esto depende también de sacar los obstáculos para la felicidad. Si tenés una canilla goteando, reparala. Si la guitarra está rota, pegala con una prensita. Sacá la entropía, manifestá el orden. Y tal vez la felicidad viene sola. - Fijate: "Qué me falta?" [para ser feliz]. En realidad sería: qué hay roto ahora. Cuando reparaste todo, listo. Capaz se manifiesta la felicidad.
 
 Este es el libro (BORRADOR 1, son 300 páginas u 800 páginas, depende de cantidad de letras por renglón, que tengo que reducir y sacar cosas en las que ya no creo, en un BORRADOR 2, y ampliar con explicaciones de paralelos a conceptos de INGENIERÍA, de cómo exactamente se explica cada descubrimiento o item. Lo de los RBC es una CADENA DE PRODUCCIÓN por ejemplo, hay conceptos que aprendí en electrónica, histéresis, pasa bajos, feedback como de un circuito con amplificador operacional, etc.):
 Esta es la parte que tipié en la computadora:
