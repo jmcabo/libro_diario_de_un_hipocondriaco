@@ -1,0 +1,12 @@
+gastos8
+lunes 25:
+20400 pesos, carniceria.
+
+martes 26:
+-confiteria 10mil pesos.
+-ferreteria: 3500.
+-kiosko: 2800 pesos.
+
+miercoles 27:
+-carniceria: 16050 pesos debo 230 pesos.
+-verduleria: 6200 pesos.

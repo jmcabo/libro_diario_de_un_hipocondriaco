@@ -1,0 +1,463 @@
+gastos5
+
+Jueves 14:
+-1241u.
+-confiteria 3 cookies fomento: 8000 pesos.
+-veterinaria orejita: 600 pesos.
+
+Miercoles 13:
+-cabify dentista
+-dentista 40mil
+-taxi de vuelta: 7480
+-entrada aurora: 63250 con tarjeta debito
+-cabify cardiologo.
+-brownies 2 y una soda: 16400 pesos.
+-verduleria super: 5300
+-super: 18900.
+-cabify aurora
+-patag.lager: serían 7000?
+-hamburguesa (pan, paty, cheddar): 7500.
+-taxi de vuelta: 12mil pesos.
+
+
+Martes 12:
+-carbiceria: 18500
+-verduleria: 7000
+
+Lunes 11:
+-confiteria ninina: 20mil pesos.
+-veterinaria: 1200 pesos orejita.
+-cabify oculista
+-oculista 30mil pesos.
+-confiteria panera: 13mil pesos.
+
+
+OCULISTA BAJA LUZ Y DE A UN OJO:
+=============================
+-ResearchToDo: Fui al oculista. Mejoré pero no tuvo paciencia de medir exacta la mejora.
+Aprendí tres cosas:
+     1. APERTURA: Mide en baja luz. Muy baja luz. Al cambiar la apertura del iris, cambia la medición. Al punto que me pregunto si lo que uno hace es adaptarse a achicar más el iris para compensar el resto cuando entrena la vista.
+     2. DE A UN OJO: Haciendo los ejercicios siento cómo el foco se busca de distintas maneras, ajustando distintos músculos. Eso de a un ojo no se hace bien. Se necesita mirar con los dos para activar distintos musculitos.
+    3. LENTES ANOTADOS: Si no ves bien sin lentes, y empieza a agregar lentes en el probador, él puede empezar desde los que tiene anotados por la medición del otro año en la ficha. Acá hay que pedir que no los cambie tan rápido, no da tiempo a que se ajuste la vista. Pero no quería antagonizar. Él iba subiendo y subiendo.
+   4. "MEJORÁSTE DE LEJOS PORQUE EMPEORÁSTE DE CERCA POR TENER 40 AÑOS": Pero no midió de cerca. Al escuchar eso yo quedé feliz. Porque yo sé y es claro que mejoré de cerca. Puedo leer libros y celular sin anteojos con total comodidad y a 25cm o 30cm. Antes no podía.
+   5. "ANTEOJOS VIEJOS DE HACE 5 AÑOS TODAVÍA TE SIRVEN": Esa fue la gran conquista. Tengo que seguir mejorando y superar eso también. Volver al nivel de anteojos más viejos todavía. Los tengo todos. Los de 2002, los de 2010 y los de 2019. Hoy es 2024.
+    CONCLUSIÓN 1: Para que un oculista mida de manera bien objetiva tu mejora, mejor que sea una gran mejora. Y no depender del armazón probadorcito.
+    Te das cuenta si todavía te falta si en casa notás que aun el anteojo viejo te mejora la vista versus desprovisto de anteojos.
+    Cuando empieza a probar lentes, ya es su juego y depende de las que él decide probar, y no te da tiempo a responder lo que ves. "Chik chik chik" las va cambiando en el armazón probador.
+      CONCLUSIÓN 2: La prueba es mucho más complicada que la situación cotidiana de leer o moverse en la calle: BajaLuz + UnSoloOjoALaVez.
+      Es posible que en vez de mejorar la diatancia axial, lo que uno esté haciendo es compensar con músculo del Iris REDUCIENDO APERTURA.
+     Por otro lado:
+     Es posible también que la distancia axial solo mejore luego de haber aprendido a compensar de maneras alternativas que le permitan a uno dejar de usar anteojos. Los anteojos son los principales empeoradores de la distancia axial. Uno recibe el estímulo opuesto con esas lentes.
+     Recomendación: Seguir así, pero saber que si uno quiere resultados medibles por goleada en consultorio, tienen que notarse en BAJA LUZ y de a UN SOLO OJO POR VEZ.
+    Quizás sea buena idea entrenar especialmente esa situación, no sé.
+    CONCLUSIÓN 3: Yo no quería antagonizar y aprecio mucho a mi oculista porque me animó a dejar de fumar. Con otros oculistas, me hubiera tomado más mi tiempo, y tendría que exigir:
+       a. Que me dé tiempo a aclarar la vista luego de cada cambio de lente o al sacar los lentes de prueba.
+       b. Pedir volver pasos atrás.
+       c. Pedir medir de cerca con rigor. Ellos asumen que empeoraste de cerca sin medirlo.
+       d. Ellos tienen un sesgo y el doble ciego importa mucho. Si conocen tu medición antigua, ellos tienden a agregar aumento sobre aquella. Les costaría mucho enviarte a la óptica con una receta que no agregue un poquito sobre cada dimensión, sobre todo si te tiene que durar uno o varios años más. No es de malos. Ayudar para ellos es dar más aumento. Sienten eso.
+    A pesar de todo, estoy contento. Las conquistas fueron menos esférico en un ojo e igual cilíndrico en el otro, y que me diga que puedo seguir usando los anteojos anteriores. Yo había empeorado el doble en estos 5 años y lo desandé.
+   O sea, en 2019 estaría en 80cm de distancia al blur en pantalla de PC. Luego empeoré hasta 45cm en 2023. Ahora en 2024 mejoré hasta 110cm. A continuar mejorando.
+    Llevé los ejercicios impresos para mostrárselos y dejárselos, pero como él ya había decidido que mejoré de lejos porque empeoré de cerca (presbicia de los 40 años), no vi interés y la consulta fluía para otro lado.     
+    Le conté que me operé el lunar que me aconsejó que opere, aunque con otro cirujano porque pedí el papel que me anotó. Y que dejé de fumar a los 5 meses de haberme dado ese folleto.
+    CONCLUSIÓN 4: Si quitar los VOCs del trabajo y hogar (hongos, pintura podrida, colchones y almohadones de poliuretano vencido, olores a químicos  humo tabaco) hace que uno vea todo más brillante, con menos fotofobia, con más luz, con distinto porcentaje de brillo del monitor, eso equivale a achicar el iris.
+   Achicar el iris permite sacar ventaja. Aumenta el rango de distancias en las que podemos hacer foco. PROFUNDIDAD DE CAMPO / depth of field.
+   Solo por haber cambiado la cantidad de luz.
+   No sé si son macrófagos y WBCs obstruyendo y oscureciendo la retina/mácula por inflamación generalizada o qué. O pigmentos flotando en vítreo absorbiendo bandas espectrales. No sé.
+   O inflamación del nervio óptico.
+   O cambio de umbral excitatorio nervioso por cambio de CO2 por tope de ControlPause. No sé. 
+    (Me pregunto yo si los Buteyko notan mejoras en ControlPause al remediar moho / hongos.).
+Receta de 2019-08-27:
+       Ojo Derecho:    ESF -0.50,  CIL -1.50  a  150°.
+       Ojo Izquierdo:  ESF -0.50,  CIL -1.25  a  20°.
+       Distancia Interpupilar: 60mm
+Receta de 2024-11-11:
+       Ojo Derecho:    ESF -0.25,  CIL -1.75  a  140°.
+       Ojo Izquierdo:  ESF -0.75,  CIL -1.25  a  25°.
+       Distancia Interpupilar: 59mm.
+Es un buen comienzo, y que mi apreciado oculista se vaya haciendo la idea que estoy mejorando. Para la próxima lo quiero sorprender con una Gran Mejora por Goleada. No me sirve si él no se pone contento.
+
+
+Domingo 10:
+-confiteria yucca: 1 brownie y 2 cookies: 12500.
+-panadería: 13500 creo.
+
+TRAUMALESS CPTSD:
+=================
+-ResearchToDo: La característica principal del CPTSD es la DESREGULACIÓN EMOCIONAL. Las herramientas que enseñan para CPTSD sirven muy bien para otras cosas, como la de conectar con los sentidos, como el dividir el estado propio en momentos "regulados" versus "desregulados" y pensar en cuál se está.
+    Al punto que creo que existe mucha gente con CPTSD sin haber tenido trauma. Y al punto que creo que se puede redefinir CPTSD como algo al que llega una persona por comer mal y beber mal (cafeína, etc).
+   Las herramientas que enseñan tienen paralelos con las del Método Vittoz y con las del Método Buteyko.
+   Creo que laa divisiones entre estos conceptos son artificiales.
+   He visto gente actuar desregulada y mejorar solo por variar su consumo de café/cafeína/cocacola, etc.
+   Todas las infancias tienen momentos dolorosos normales. No creo que exista una infancia sin algo de sufrimiento. Es más, quizás es necesario pasar por cosas así (ej: ser ignorado por los padres cuando uno necesita algo, y además experimentándolo como algo muy terrible) para tener un desarrollo mental normal y llegar a la adultez. Cuál es la alternativa a eso? Un adulto al que nunca se le negó nada, ni una playstation ni plata para vicios ni salir a cualquier hora con amigotes? Qué clase de adulto sería? 
+   Por lo tanto, quiero acuñar "Traumaless CPTSD". El término denota que se llega a ese estado no por traumas si no por daño que nos hacemos con consumo de comidas y bebidas con las que buscamos automedicar ansiedades o angustias y terminan desregulando. Justamente porque tienen efectos en la mente. Cosas como la cafeína o dulces "cosas ricas", o ciertas comidas que la gente sabe que tienen efectos calmantes, y que buscan en momenros de inquietud, pero que ignora totalmente que no existen efectos mentales sin procesos opuestos de Abstinencia / Withdrawal, tanto para el café/cocacola/té como para el alcohol o el cigarrillo o los dulces o ciertas "comidas de foodie" supuestamente sanas pero llenas de vegetalea tóxicos crudos (ni fermentados ni cocidos). Todo lo que tenga efecto "de comfort" mental, va a tener efectos opuestos impredecibles de abstinencia. No wonder que luego mucha gente vive montañas rusas de emociones, pasando por despertar de mal humor, como ponerse caprichoso como adulto, tener mal humor al bajar el estímulo sensorial (llegar al hogar), hasta ser irrazonable en resumen para cualquier tema. Sus emociones son casi objetos separados de si mismos que necesitan workaroundear constantemente. No está integradas porque la montaña rusa de sustancias (comidas ricas, cafeína, alcohol, tabaco) que aparecen y desaparecen de sangre al transcurrir las horas del día, las desregula. Según genética, habrá variaciones.
+Hay familias que no tienen problemas con café, otras que tienen muchísimo problema.
+   En general, la gente con CPTSD se ve que come mal, ya por la forma de los brazos y distribución de grasa corporal.
+   Pero no son concientes que el consumo de alimentos y bebidas y tabaco pueda tener un rol en esto que les pasa de no tener integradas las emociones y que suban y bajen como objetos separados de su control a lo largo del día.
+   No se les pasa ni una vez por la cabeza que lo mismo que les da confort, les puede causar el daño opuesto.
+   Toda sustancia con efecto en mente es pasible de provocar EFECTO TOLERANCIA en el cerebro. Incluso los dulces. Luego también WITHDRAWAL. Cravings no llega ni a describir el orden de magnitud del problema. La vida de esa persona se define por una cadena de reacciones de consumo de cosas a lo largo del día para hacer coping. La cotidaneidad transcurre así, día tras día. Buscando regularse, buscando volver al centro, sin conciencia que los mismos consumos (café, dulces, tabaco, etc) que equiparan un pozo emocional son los que continuan causando esos pozos. Como olas que traen y luego se llevan. Una y otra vez. Día tras día, sin saltear ninguno. Durante décadas. La ola trae, la ola chupa.
+Pero por alguna misteriosa razón, estas personas solo piensan que la ola trae. Que no genera luego el mismo vacío y contracorriente. Solo piensan que el café y dulces y carbos de foodies traen bienestar. Nada más errado.
+__
+Cuando lo ves desde afuera, siendo una persona que no toma ni cafeína ni fuma, es bastante obvio. Lamentablemente nadie quiere que le digan que su vida sería infinitamente más fácil y mejor si deja el café y corta el ciclo. Simplemente no lo quieren oir.
+Cuando se desregulan, que se nota obviamente, no hay nada que hacer que esperar que se calmen.
+  Si la palabra correcta es adicción a sustancias alimenticias y consumos no duros, o simplemente Dependencia, o si no TRAUMALESS CPTSD, no sé ya.
+
+
+
+Sábado 09:
+-family: bife mini: 20mil mas 1600.
+-kiosko: 2600
+-illy: 12000 pesos.
+-juntada: 14mil pesos.
+
+viernes 08:
+-confiteria 8000
+-veterinaria 600
+verduleria 6050.
+
+Jueves 07:
+-650, veterinaria.
+-10mil croxy brownie y soda para mi y pepsi mama.
+
+
+TÉCNICA PARA VER MEJOR SIN TENER LOS EJERCICIOS A MANO:
+=================
+Uno: Encontrar algo redondo y diverger a voluntad.
+Para saber que estamos divergiendo, primero converger y ver que los redondeles se apartan mucho. Luego traerlos con el movimiento opuesto, y seguir de largo para diverger, y ahí efectivamente se apartan poco.
+    Dos: Centro+Izq y Centro+Der:  buscar usar los dos ojos al ver el centro en foco a la vez que el background izquierdo o el background derecho en turnos.
+   Creo que estas dos técnicas pueden ser muy poderosas para corregir el sesgo con el que venimos por acumular tensión o espasmo en un ojo y usar demasiado el dominante, etc. Cuando no estamos cerca del ejercicio impreso o ejercicio en pantalla.
+
+
+SEASONALITY OF PEOPLEs HUMOR AND MENTAL DISEASE:
+===============
+-ResearchToDo: Tiene que ver con isoprenos emitidos por plantas y por humanos.
+   Las plantas los emiten en ciertas condiciones de Sol directo vs nubes, de humedad y sequedad, de viento o falta de viento.
+   Los humanos exhalan montones más isoprenos durante actividades cognitivas (hay estudio) y no sé si ejecicio también. Vivir y trabajar encerrados sin ventilación, afecta muchísimo. Y estar encerrado también depende del clima exterior (estación del año, temperatura, sol, humedad).
+   La humedad y frío del invierno húmedo, afecta la manera en que los pulmones y la piel intercambian gases con el ambiente.  
+   Eso se traduce en dolores de articulaciones para algunas personas. Hay un tema con isoprenos y esteroles en articulaciones y con el colágeno que aun no terminé de dilucidar. O tal vez con nódulos linfáticos, si el dolor viene de ahí. En ese caso es el sistema inmune quedado backed-up, con la salida de detox por Pulmones y Piel trabadas. (El sistema inmune convierte isoprenos a esteroles).
+
+
+DISCUSIONES CIENCIA:
+===================
+1. qué busca cada uno?
+    Buscar la Verdad? Persuadir? o Solo callar al otro que está insoportable? O solo dar charla y hablar por hablar? Provocar?
+2. Fallas de lógica. 
+    Falta educación en lógica. A Implica B no es A Congruente B.
+3. Estilos de generación CO2.
+     Los que son estilo social, buscan charlar para ir de emoción en emoción. Una charla sin emoción o con bajo Value Velocity les parece tortura, lo experimentan como violencia contra ellos. Y son capaces de retribuirla, ojo. Experimentan un dolor que uno no percibe, y al manifestar la retribución uno lo puede ver, en qué medida estaba, que ellos buscan equiparar.
+    No les interesa el valor de verdad de nada.
+    Solo las emociones, el estímulo social, de decodificar las expresiones del otro, de ser entretenido y poder entretener.
+    A veces llevan la contra para encontrar el EmotionalSignature de alguien que dice la verdad de algo. Al irritarlo, uno tiene que responder con la emoción acorde al que dice una verdad supercheckeada. Cuando uno no lo hace, ellos perciben la ausencia de esa respuesta emocional signature, y deciden que uno no sabe lo que dice. Porque no se ofendió ni se rió ni pasó a contar historia con Value Velocity en forma de respuesta emocional. (historia tipo Landriscina o tipo Gran Profesor).
+4. No están acostumbrados a checkear.
+    No tienen forma de checkear nada, y hasta tienen miedo de goolear o abrir un libro o PDF enviado. Lo evitan activamente.
+   Tal vez tienen miedo de ser persuadidos por información falsa que no tienen forma de checkear.
+   Tal vez ya les pasó en el pasado.
+   Y su forma de hacer coping con información falsa no fue aumentar el checkeo, si no bloquear el checkeo.
+5. No usan la Resonancia.
+   En sus ocupaciones no están acostumbrados a Resonar como forma de saber si algo es verdad.
+   Los modos de adquirir información que tienen son totalmente distintos y ajenos a los de alguien acostumbrado a resonar con un sistema. (SYSTEMS THINKING).
+   Quizás la usen de forma limitada, no estoy seguro. Hay que expandir este punto. Qué es lo que usan si no usan la resonancia? 
+   "Qualia+Filter": cómo es en ellos? Lo usan? Cómo se ven cuando buscan poner en palabras un concepto, un Qualia?
+6. Cómo se ve la Alternativa?
+    Si la alternativa a contradecir caprichosamente todo en una charla, sin ofrecer data, ni checkear ni contrargumentar de buena fé, si la alternativa es aceptar ciegamente, los pone en una situación de vulnerabilidad o pocas ganas o debilidad o subordinación. Y quién es uno?
+   Uno puede ser varias cosas en la vida. Intelectual, o líder social, o gurú, o "científico" (lo que sea que eso signifique ese mes). Cuando uno es un pal, un chamigo, un hermano molesto y nada más que eso, nadie va a aceptar nada.
+    Sobre todo siendo que gente que no checkea, solo acepta cosas sin checkearlas.
+   Al no checkear nada, o aceptan de pleno o rechazan de pleno.
+   Los ponés en una situación de pedirles aceptar un liderazgo. Pero vos solo querías aportar algo que les podía servir. Y en todo caso ver juntos por qué no sirve si no sirvió. Pero nunca se llega a esa parte.
+    Más aun, si no se sienten privilegiados o cuidados en sus necesidades y validados por este loco, no van a querer subordinarse al liderazgo de dicho loco. Lo más crazy es que uno solo quiere aportar una idea que les puede servir. Uno no quiere ser líder de nada. El problema es que ellos solo aceptan ideas sin checkear, y empezar a aceptar ideas de tal persona es setupearlo cognitivamente como líder en ese sentido. 
+   En los casos en que lo hacen, lo relatan a otros como que conocieron a un super groso en tal tema, orgullosos. Y enfatizando las credenciales de liderazgo al hacer relay de sus ideas.
+7. No superposición de ideas contradictorias.
+    Eric Weinstein habló de eso.
+    Y alguien dijo que signo de una mente avanzada es poder entretener ideas con las que no está del todo de acuerdo.
+   Por supuesto que sus mentes están llenas de ideas contradictorias. Pero no las entretienen, no las hacen jugar. Ni les intersa saber cuál es la correcta. 
+   Es la confianza de los tontos.
+8. Testimonials.
+    Si la idea que uno presenta tiene testimonials, eso ayuda mucho en discusiones con gente que no checkea nada.
+   Pero no es garantía.
+   Si alguien bajó de peso con IF, dicen que probablemente se hizo cirugía bypass gástrico. Incluso en fotos donde no hay cicatriz.
+   Si alguien revirtió miopía, dicen que está confundido o está mintiendo. Lo mismo Tinnitus.
+   Por otro lado, si uno tiene aspectos indeseables, es un anti-testimonial. 
+   Si uno tiene acné, kilitos en pancita en vez de panza tabla, no tiene músculos ni está bronceado, el pelo un desastre, no ayuda. Si uno se muestra ansioso o irritante, o pedigüeño emocional, eso tampoco ayuda.
+9. Parábola de los ravioles verdes de ricota.
+   La gente cree lo que le conviene creer.
+   Si la pizza es muy rica para ellos como para dejarla o reducirla, entonces creen que la pizza no engorda. Ese estilo de cosas.
+   Si quieren ganar una discusión creen lo opuesto de lo que cree el otro. No interesa si es patentemente falso, comprobable enfrente tuyo.
+   Como sus actividades diarias no dependen de estimar el valor de verdad de ideas nuevas (no debuggean sistemas, no hacen cosas pasibles de funcionar o no funcionar, etc), las estrategias que usan para decidir si algo es verdad son caprichosas o arbitrarias o fastasiosas.
+   En ese contexto, la conveniencia es un criterio válido para ellos.
+10. Todo se reduce a que no creen que uno tenga razón, independientemente de los argumentos.
+    Y el resto de la charla es en círculos.
+    A priori ya decidieron que uno no tiene razón.
+    Después ven cómo.
+    O hablar en círculos les viene bien.
+    O buscan alguna emoción / firma emotiva / entretenimiento casual.
+11. Por qué sigue la charla entonces?
+    Uno se tiene que preguntar eso.
+    Una buena estrategia es poner el oído al piso y "sentir" la charla, haciendo cosas como pausando y esperando, para sensar el impulso puro de los otros. 
+    El impulso puede ser la nada: la charla les estaba molestando.
+    Puede ser un cambio de tema: querían hablar de otra cosa.
+    O si el impulso es insistir en seguir, para qué lado va? Qué quieren de nosotros? Que uno les crea a ellos? Que uno se dé cuenta, por su bien, que está errado del criterio común de la sociedad? O realmente les interesa llegar a la verdad?
+   Si les interesara llegar a la verdad, hubieran checkeado la data que uno presentó. Pero eso nunca ocurre, nunca abren el PDF o video de conferencia, o nota o nada. Nunca ocurre. Por eso es que se da todo lo de arriba con la gente que discute alrededor de los temas. Alrededor, sin addresearlo. Addresean que uno está equivocado, pero no el tema.
+    O la charla sigue porque es su manera de seguir darnos una oportunidad de persuadirlos?
+     Algo como en tenis, que mientras la pelota esté en juego, hay chance de revertir todos los sets, el partido no terminó y no hay límite de tiempo para revertirlo ni ninguna otra limitación. Si el partido está en juego, es revertible. Si venía por ese lado.
+    Cómo distinguir?
+    Cuando ellos están dando una oportunidad para ser persuadidos, ellos escuchan lo que uno dice y lo citan para contraargumentar.
+    Cuando ellos buscan solo corregir al loquito, no leen lo que uno está poniendo. Y la conversación tiene ese feeling de frustrante, de conversar con una pared impermeable. Porque cada vez que uno abate sin margen de dudas un argumento, pasan al siguiente impasivos. Porque la idea no era ver si algo era cierto, la idea para ellos es seguir buscando maneras de que uno recapacite en sus modos lejanos al criterio social. O que uno deje de molestar. Ni siquiera son buenos en la persuación.
+    A veces no estoy seguro si buscan persuadir o negociar en voz alta con su subconciente, las razones por las que no creen en algo.
+    Sentir si hay un mensaje NoVerbal. Algo que nos quieren decir al insistir, que sus palabras no están diciendo. 
+   Al sentir la charla, preguntémonos si:
+     .Nos responden sin leernos.
+     .Si buscan persuadirnos de la idea opuesta.
+     .Mensaje NoVerbal underlying.
+     .Si es en círculos, salteando obvias victorias.
+     .Si pusieron en juego su creencia.
+     .Pausar y sentir cómo sigue, si sigue.
+__
+  Quizás solo sigue porque sintieron que "a este lo corrijo fácil, se va a dar cuenta que se equivocó".
+  
+
+QUALIA+FILTER ES INSIGHT
+======================
+-ResearchToDo: Si una persona carece de habilidad de fijar un Qualia como Filter y luego intentar ponerlo en palabras, esa persona no va  a tener insight de sus acciones.
+   Cuando uno snapshotea su mente, y la pone de filter del siguiente paso temporal de clock, puede intentar ponerse a sí mismo en palabras. Puede tener insight de sí mismo. De por qué hace lo que hace, o qué busca de una charla.
+
+
+THOMAS COWAN MISMO SUPERPODER:
+=================================
+-ResearchToDo: Yo siempre dije que tengo dos superpoderes:
+1) sé cuando no entiendo algo
+2) insisto hasta entender.
+Estaba viendo esta entrevista donde Thomas Cowan dice algo parecido:
+
+       "Pandemic Of Not Thinking - Dr Tom Cowan
+        & Dr. Sam Bailey", 2021-12-03
+odysee.com/@drsambailey:c/Dr-Tom-Cowan-Pandemic-Of-Not-Thinking:d
+
+En minuto 6m20s dice:
+      "I say about myself, if there is anything that has served me, is that I have a sense when I don't know. And I'm not afraid to say, look this doesn't make sense, but I don't necessarily know what's true, but I know that this stuff that I'm told isn't true.
+    And a lot of people I think can't live with that. It feels like an unpleasant, disoriented place to be.
+   Like, ok, I saw somebody getting chickenpox, and you are telling me that it's not a virus.. so what is it? And, you know, maybe there's an answer to that, maybe there isn't.
+    For me that was never a problem.. so I don't know the answer. A lot of things I don't know."
+
+Un ídolooo!
+Todos los científicos deberían ser así. Uno se sorprende cuando aparece uno solo que lo es, porque es remarcable. Debería ser lo normal.
+
+
+
+miervoles:
+-confiteria naon: 5000.
+-veterinaria: 3000 pesos
+-super 8000 pesos.
+
+Martes 05 Nov:
+-cabify
+-quiro 15mil
+-verduleria 8700.
+-cabify janis
+-coni me dio 20mil por el regalo de janis del pasado dia madre.
+
+Lunes 04:
+-taxi padilak ida 7700 vuelta 8000.
+-pilas 8000 pesos (4 pilas sr621 energizer copyright 2021, dos mil cada una).
+-carniceria 23200 pesos.
+-cordones adidas y topper (chato 110 negro, redondo 110cm blanco), 4000 pesos total.
+
+FILTER HORROR:
+=============
+-ResearchToDo: El filtro inhibe. Eso es terrible.
+Cuando uno está concentrándose, tiene que setupear un filtro mental que inhiba todo lo offtopic.
+Pero eso es terrible desde el punto de vista de CO2.
+Y por eso uno evita meterse con tareas cognitivas de laburo o estudio aunque sean facilísimas. 
+Porque si las empezás, cae el CO2, porque hay que pasar unos minutos iniciales de bloquear todo lo offtopic.
+Lo percibo directamente: siento que mi cabeza lucha por frenar ideas, a la vez que me sube un malestar, y se me acelera el pulso.
+El pulso acelerado es el corazón intentando generar más CO2 para rellenar el GAP de CO2 que estamos creando al iniciar la concentración.
+RECOMENDACIÓN: hacer flexiones y abdominales puede ayudar al shitear la tensión compensatoria al activar metabolismo músculos, y aumentar su metabolismo basal. Quedan gastando aunque luego volvamos a la silla.
+RECOMENDACIÓN: Hacer ATT o 3c, etc. para reducir gasto de O2 mental y así reducir necesidad de generación de CO2.
+RECOMENDACIÓN: Hacer Wim Hof Breathing para lavar toxinas y corregir Control Pause y así bajar necesidad de tanta generación de CO2.
+ENTONCES: con ejercicio se shiftea, con ATT se reduce gasto O2 y con WimHof se lavan toxinas. Con las 3 formas se reduce la necesidad de generar tanto CO2 mental y así pasamos a estar ligeros de switcheo de CONTEXTO DE FOCO mental. Quedamos flexibles en vez de stiff, mentalmente. Ágiles. Con mayor capacidad de cambiar de liana mental.
+
+FILTER HORROR vs PROCRASTINATION vs DEBER TIEMPO COSAS ATRASADAS:
+=============================
+-ResearchToDo: Qué es el modo DeberTiempoCosasAtrasadas?  
+Es que estamos cerrando el filtro, tratando de patear cosas no importantes para adelante, como ordenar algo que está en el escritorio hace rato, pero a la vez tampoco hacemos la tarea cognitiva (o física) que debemos (laburo, estudio, trámites online, etc.).
+El filtro está intentando cerrar el foco, y patear y apagar todo lo que no es la TareaAtrasada. A la vez hay algo más.
+Ese algo más es que estamos buscando subir los disparos neuronales. Para poder seguir cerrando el foco, necesitamos subir la generación de CO2.
+Entonces instintivamente buscamos irnos por las ramas, poner música o ruido de fondo de TV, o hay gente que busca ponerse al lado de alguien o pedir ayuda (más de lo normal, patológicamente pedir ayuda). 
+Estamos sentados listos para hacer TareaAtradada, pero empezamos a subir los demás sliders del ecualizador, a meter ruido de fondo, mientras el filtro está pateando otras cosas.
+Nos acercamos a la tarea pero no podemos soltar las lianas de CO2.
+Las soluciones:
+     1. Visualizar la tarea, "ponerse en tema" de a poco, para tener flujo constante de CO2 una vez empezada la tarea, minimizando los tildes o los gaps de tener que parar para recordar algo.
+    2. Shiftear generación CO2 a músculos. Con ejercicio, gimnasia, etc. Pensar caminando, etc. Lo otro es ir a pensar a un lugar donde haya estímulo sensorial, sea ruido del mar, ruido de bar, ruido de la calle/pájaros plaza, o estímulo social como cercanía de gente sentada en bar. Eso ocupa el cerebro en descifrar estímulos o expresiones de gente y provee un buen nivel de gasto basal de metabolismo y generación CO2.
+    3. Lavar toxinas para mejorar ControlPause. Wim Hof Breathing.
+    4. Bajar generación de CO2 y gasto de O2 de parte de otras áreas del cerebro que quedaron en loop, usando ATT o meditación o DNRS o lo que sea. Es contraintuitivo, pero así como hay un mínimo de CO2 que hay que generar, hay un máximo también, una temperatura local máxima (por presencia isoprenos), y un rango de pH angosto (por lo mismo). Y cuanto más O2 se consume en esos loops, más CO2 se necesita. Todo esto hace stiff / duro el switcheo de contexto mental. Porque no podemos saltar a generar CO2 con otros procesos cognitivoa hasta soltar esos loops.
+    Es más, quizás la razón que buscamos ruido de fondo e irnos por las ramas, es que instintivamente buscamos sacar un clavo con otro clavo para poder soltar esos loops y así dejar flexible y suavizado el swircheo de Contexto para después.
+   Entonces uno posterga el inicio de TareaAtrasads para abocarse a primero cerrar esos loops, generando CO2 de otras maneras. En estos casos, obviamente no da resultado. Los loops siguen. Pero si uno medita o hace ATT, lo puede empezar a solucionar.
+   Uno busca generar un aire, un espacio, para poder moverse y tolerar Context Gaps. Que si no uno ya ve de ojo que no va a poder empezar con TareaAtrasada.
+    5. Comer bien para no tener tanta toxinas que bajen el ControlPause (ideal, pero eso tarda semanas en notarse). Es lo que hay que hacer a largo plazo.
+    6. Remediar fuentes de toxinas en hogar: paredes con hongos, radiadores, colchones de poliuretano vencido emitiendo VOCs, papeles viejos podridos emitiendo VOCs, plantas emitiendo VOCs, repasar paredes con vinagre, pasar aspiradora, etc. Hasta se puede poner un filtro de aire HEPA.
+
+
+FUERZA GRIP DEPRESIÓN vs CO2 vs TENSIÓN COMPENSATORIA:
+===============
+-ResearchToDo: Ver la referencia de eso, de que los doprimidos tienen menos fuerza de grip en puño al despertar. Y ver cómo juega con CO2, hypocalcemia, etc. Tensión compensatoria vs pensar mucho, etc.
+Me pregunto si alguien estudió tomar suplementos de magnesio como parte de tratamiento depresión o ansiedad.
+
+MOVER BRAZOS O PIERNAS PARA SALIR DE SILLA O CAMA ES COMO 5-4-3-2-1 RULE DE MEL ROBBINS:
+============
+-ResearchToDo: Con CO2 y Tensión Compensatoria obtenemos la explicación de por qué funciona y la generalización. Porque a veces decir 5-4-3-2-1 no le hacenni cosquillas a la gente, depende de si son matemáticos, etc.
+El resumen es: es tan esencial generar CO2 con nuestro loopcito mental, que si lo dejamos de hacer, nos morimos o necrosis cerebral. Para soltar esa liana, hay que agarrar otra liana (a lo Tarzán) y mover los brazos y piernas provee la posibilidad de soltar el loop mental con que veníamos al despertar. El delequedele.
+
+FORMULITAS BIOHACKING:
+=====================
+-ResearchToDo: Habrá alguna manera de estimar el pH de la sangre a partir de los BPM p SatO2 o BP? Googlear "pH formula from BPM".
+   O de estimar la concentración de isoprenos a partir de la presión sanguínea / BP Blood Pressure y la temperatura de la axila termómetro o cosas así por ese estilo?
+   Hace falta estimar exacto o dando un Índice tiene sentido?
+   Algo objetivable, para comparar progreso propip distintas semanas o para comparar 2 personas distintas?
+
+GENTE QUE PROVOCA, QUE CONTRADICE, BUSCA ESTÍMULO SOCIAL:
+=====================
+-ResearchToDo: justamente la gente que tiene el estilo generar CO2 "Rodeándose De Gente", es decir, por estímulo social, creo que es la misma gente que por deporte contradice todo en una conversacion.
+En el nivel intelectual de conceptos intercambiados en la conversación no está el problema ni la solución.
+Esta gente, que por deporte contradice, te está diciendo a su manera que necesita, que depende, de agregar tono NoVerbal, Emocional, a la conversación. 
+Apretaron el botón de EJECT para que se termine la conversación aburrida que literalmente los está matando por dejarlos sin el CO2 que necesitan, y quieren subir el tono de conceptual a emocional.
+Las palabras que dicen no son las palabras que dicen. Las palabras que dicen son en realidad: enojate u ofendete de que no te entendí, así me das la información emocional que necesito, en lugar de seguir intentando explicar a nivel intelectual, que me estás dejando sin el estímulo social que ando necesitando, y se me terminó el margen o tiempo de duración de conversación sin emociones. Ofendete. Mostrame con NoVerbal que tenéd razón, no me lo expliques. Divertime, entreteneme con emociones o datos emocionantes.
+__
+Es como un protocolo de Challenge y Response. 
+Como no tienen ganas o no tienen hereamientas para entender o checkear lo que uno dice, hacen el challenge. El challenge sería negar o empujar para el lado opuesto.
+La respuesta que ellos esperan no es intelectual. La conversación empezó con un concepto intelectual pero no esperan terminarla intelectual. Lo que ellos quieren como response es una confirmación Emocional, un signature emocional que les indica que tenemos razón o no.
+Ellos no entienden el tema, y no lo quieren entender. Pero si uno se ofende, o salta con una historia emotiva o de alto ValueVelocity que confirme, que responda a la irritación que emitieron ellos, entonces les sirve.
+Ellos en realidad no les interesa mucho si algo es cierto o no. Ellos no van de verdad en verdad. Ellos van de emoción en emoción. Es su estilo de obtener CO2.
+La verdad de las cosas nunca les interesó mucho. Si no, ya tendrían dos o tres skills vinculados a jerarquías de verdaded, o conocimientos prácticos entrelazados con lo fenoménico.
+   Ellos emiten una irritación, irritan nuestro sistema, a ver cómo uno responde. A ver si ellos reciben un estímulo social a cambio.
+   A este estilo de personalidad le gusta rodearse de gente. Estar solos en un bar o confitería, etc. Pueden ver rostros expresando emociones una y otra vez por horas, IRL o en TV.
+   Conocen reglas sociales que los que son de otros estilos de generación de CO2 no saben que existen. 
+   Para ellos la comunicación verbal casi no importa, y si un concepto está mal comunicado en lo NoVerbal, es una falta terrible (ej: un científico dando una conferencia con una remera de rock and roll, por más que sea la cura de la falta de energía del planeta o de lo que sea, se quedan en la remera).
+    Estimo que cuanto más necesitados estén de CO2, más contestones y más difícil llevar a cabo una conversación. 
+   Smashean entonces el botón PONÉ_UNA_EMOCIÓN.
+__
+Si ponen cara de dolor es porque probablemente estén sufriendo un daño. Sin estímulo social se les cae el CO2.
+  Cuando dicen "esa conversación es dolorosa" o "esa conversación es violenta", refiriéndose a conversaciones donde no hubo daño ni dolor ni violencia y todo lo que eran era una sucesión de conceptos, sin mucho tono emocional, es al dolor de sostenerse sin generar su CO2 que se refieren. 
+   Para ellos es tan traumático sostener una conversación así como lo es aguantar la respiración.
+__
+   Te dan cuerda (hacerte enojar o poner contento, o triste, o memorioso), y luego se hunden en el asiento y se relajan a ver un rato de entretenimiento. La savia de la vida, para ellos: emociones, rostros expresivos, historias con ValueVelocity.
+   
+
+FILOGENÉTICA:
+============
+-ResearchToDo: Historia genes de organismos con Mitocondria que fabrican isoprenos y dolicol y squalene y fitoesteroles y colesterol A PARTIR DE ACETYL-CoA.
+   Cuánto de cada uno de eso isoprenoides hay en cada planta o animal? En gramos, etc.
+  
+GLUCOSA EN PLANTAS ASOCIADA A ISOPRENOS?
+==========
+-ResearchToDo: Qué onda? Todo lo que tenga glucosa como manzana, banana, arroz, papa también tiene isoprenos?   
+O los isoprenos aparecen en esos alimentos si los atacan bacterias u hongos / parásitos y el resultado de metabolizar esa glucosa en AcetylCoA da isoprenos que van quedando en el alimento y se hace feo comerlo a medida que se pone viejo? Qué es que una fruta se ponga vieja? Qué es la comida vieja? Si las bacterias son nutritivas también, en otros lados comemos bacterias directamente. Qué es no poder comer una fruta por vieja?
+
+HONGOS EN PAREDES:
+==================
+-ResearchToDo: Me suena que es verdad que son tóxicos sus metabolitos, y que el flaco del webinar está equivocado. Pero que tienen razón quizás en que los materiales construcción modernos no son buenos. En el sentido que tal vez son demasiado "dulces" para los hongos y la celulosa les viene tan bien como la glucosa, y con eso pueden largar isoprenos para todos lados, a partir de solo existir y hacer OxPhos en exceso. Quema de glucosa de la celulosa de AcetylCoA. 
+   Y nos joden los hongos porque tienen mitocondrias y OxPhos por ser eucariotas.
+   Averiguar si los hongos hacen Colesterol o algo similar a los FitoEsteroles de las plantas. Y cuándo aparecieron esos genes.
+
+
+EXPLOSIÓN CÁMBRICA:
+===================
+-ResearchToDo: en el cámbrico, la evolución pegó un salto. Quizás fue por la aparición de regulación de efecto Bohr y ControlPause sumada a aparición de "toxinas ricas", es decir, a que los animales grandes desarrollen un gusto por toxinas que originaente fabricaban las plantas para espantar insectos chicos. Resulta que los animales grandes que consumen estas sustancias se ven obligados a moverse y/o a pensar más y más rápido y más tiempo, por bajar su ControlPause.
+   Los crustáceos aparecieron en esa época?
+   Eso explica por qué estamos adaptados a comer y metabolizar tanto las toxinas. Pero había que mantenerlas en un nivel de pocas veces por año o nivel basal. No esto de ir al supermercado y que 100% de lo que hay tiene toxinas, y se consumen la totalidad de los días del año, en las 2 comidas o más comidas todavía.
+   Por otro lado, las adicciones.
+   Lamentablemente es increible e innecesaria la superficie plantada en el planeta para plantas con toxinas.  Llegó un punto que ya no interesa plantar cosas que no causen adicción o reducción del ControlPause o vasoconstricción del cerebro / reducción flujo sanguíneo cerebral CBF.
+   Hemos salido de los feedback negativos de retroalimentación y regulación de estos consumos. El ser humano puede tener todos los tomates, zapallos y pimentones que quiera. Y cafés.
+   Sea tomate o café, son plantas tóxicas. Y ya no quedan cosas nutritivas sin toxinas. 
+   Todo tiende a que el ser humano viva cada vez menos. Me suena que en el planeta, antes la gran búsqueda activa de estas toxinas, la mayoría de las especies vivía cientos de años.
+(ver Cnidaria por ejemplo).
+   A cambio de arruinarnos la nutrición, obtuvimos mayor desarrollo muscular y cerebral.
+   Se podrá volver a un punto medio? 
+
+
+AMEBAS Y TOXINAS DE MEMBRANA:
+==============================
+-ResearchToDo: Será que la razón que las bacterias y paramecios esperan a que la ameba se muera es un DeadManSwitch que fabrican todos los seres vivos y células?
+Algo que mientras el ser está vivo, lo sigue fabricando y emitiendo en su vecindad, y que por lo tanto le es imposible a las bacterias acercarse y morfar esa ameba.
+  Será que las toxinas son parte de la vida? Incluso si las llamamos Antibióticos antibacteriales? 
+  Serán indicadores de metabolismo en progreso?
+  Será que todo ser vivo tiene que emitir esas toxinas continuamente, o de lo contrario es morfado por bacterias? Como que es la señal que las bacterias, siempre presentes, están esperando para pudrir un organismo y devolverlo a la tierra?
+   Será por eso que tenemos isoprenos y colesterol en nuestras membranas?
+   Si estas cosas son ciertas, el análisis filogenético va a tener algo qué decir.
+   Es posible que estas toxinas sean casi tan viejas como la vida. Y que se hayan originado por allí por el salto a Eucariotas. O alrededor.
+   Será que lamentablente no podemos vivir sin tóxicos en nuestro cuerpo?
+   Que a lo que hay que aspirar es a no tener de más, y confiar en que nuestro cuerpo va a regularla y autoreparar lo que pueda. Pero no podemos llegar a 0 colesterol (cero isoprenos) y así dejar nuestras membranas sin colesterol.
+  Entonces siempre vamos a envejecer un poco.
+  Es un karma.
+  Pero no hubiéramos llegado a ser organismos complejos sin pasar por eso, sin adquirir los isoprenos de membrana. 
+  Lo bueno vino con lo malo.
+  Es decir, si existiera un alimento desprovisto de colesterol y de carotenoides y fitoesteroles y de isoprenos y de todo tipo de toxinas, es posible que nos empiecen a comer las bacterias luego de meses de solo consumir eso. Pero no lo sé.. Tal vez no.
+  Estamos en un ciclo kármico.
+  Tal vez el colesterol lo tenemos dominado, y no nos hace nada de daño y sirve para que las bacterias nos dejen en paz, sensándolo de lejos. Tal vez el problema son las otras toxinas. No sé. Sé que el colesterol son isoprenos hechos moño para que no hagan daño (no hagan thermal runaway, cavitación por volatilización, polimerización y vulcanizado, etc.).
+   Cómo era el sistema inmune en el mundo prehistórico y micro, cuando los organismos eran todos unicelulares? Cuáles eran las defensas y ataques de una ameba vs una bacteria? Cuáles son los detalles particulares de las defensas con antibióticos de los hongos hacia las bacterias? Cuándo aparecieron en M de años y qué había antes de esos antibióticos? Porque desde el minuto casi cero de la existencia de los hongos (eucariotas unicelulares con mitocondria y OxPhos), que se tienen que haber estado defendiendo contra bacterias.
+  Y el sistema inmune de colonias de unicelulares como algas o mohos? Cómo se defienden de la putrefacción siempre inminente de las bacterias?
+   Desde que un organismo nace, todos los días está postponiendo la putrefacción un poco más. Estamos rodeados de bacterias que están esperando el instante que les toque devolvernos a la tierra. Siempre listas para actuar, pero por alguna razón no lo hacen.
+  
+
+CULTURAS INTELIGENTES Y EVOLUCIÓN:
+=================================
+-ResearchToDo: Creo que comer una toxina que te fuerza a pensar porque te baja el ControlPause puede ser beneficioso los primeros años de vida del ser humano u otros animales y por eso viene en la leche. Pero es una toxina, y se supone que es un boost. Luego hay que dejarla y que el ControlPause vuelva a la normalidad. En el mini documental de What I Learned sobre aceites vegetales y crisco, el youtuber cuenta sobre estudios que vieron que los animales que se les dieron dietas altas en DHA tenían un cerebro con mayor cantidad de conexiones. Pero las fuentes de DHA son crustáceos y otras cosas justo justo altas en carptenoides. Es posible que el salto que pegó el ser humano sea gracias a esa molécula. Otros animales huelen los isoprenos, nosotros no (creo que no). Otros animales huyen de comidas picantes o amargas, nosotros tenemos eso reprogramado.
+   Podemos comer una y otra vez como "ricas" una variedad de toxinas que nos bajan el ControlPause.
+   Y así es que algunas culturas, que producen individuos muy inteligentes, usan Pimentón / Paprika en las comidas y a la vez tienen reglas estrictas en la alimentación. El problema es que es muy común que en adultos, una vez alcanzado un buen cerebro formado, se sigan consumiendo esas toxinas y el ControlPause no se recupere, y la gente se vuelva loca loca.
+   Y así estamos.
+    Puedo decir, sin temor a equivocarme, científicamente, el mundo está yendo por mal camino por haber ignorado las reglas ancestrales de las tradiciones alimenticias y otras. Es cien por ciento científico afirmar que tendríamos que haber seguido tradiciones a rajatabla. Tales como respetar los métodos de fabricación y tiempos de fermentación de quesos y fiambres, y cantidades y frecuencias de uso de pimentón y cosas así.
+
+-ResearchToDo: Thomas Seyfried en DiaryOfACEO:
+1. Las mitocondrias son más eficientes quemando Ketonas, mucho más. Necesitan menos O2. (! tremendo!, tremendo dato porque si tenés control pause bajo, requerir menos O2 es un big deal).
+2. Las células que hacen fermentación de glucosa sin OxPhos largan Lactic Acid y Succinic Acid. Los cáncers también.
+Yo pienso... qué harías vos, siendo un organismo, si fueras tu cuerpo, y no podés usae más la OxPhos porque estás hasta la goma de AcetylCoA e isoprenos y cholesterol y esteroles? (El estrógeno es un esterol).
+Qué harías?
+No agarrarías un grupo especializado, normalmente pequeño pero repetido y ubicuo en cada tejido, para tomarse el trabajo de fermentar todo ese exceso de azúcar en vez de quemarlo en OxPhos? Sobre todo si no podés largar más CO2? Y sobre todo si vos seguís consumiendo Carbos como si se acabaran del mundo mañana?
+3. Estoy cada vez más convencido que los tumores son una Respuesta Adaptativa, que la evolución nos dio para lidiar con problemas de excesos, que en la naturaleza nunca llegaban al extremo que llegan hoy día.
+4. Los músculos también pueden quemar glucosa y largar ácido láctico... pequeño problema: los atletas se la.pasan consumiendo Carbos/glucosa/fructosa en Gran Exceso.
+Si los estudios estuvieran hechos con Atletas Keto, sería más que 7% reducción de cáncers?
+Es que igual la gran mayoría de los atletas se les lava el cerebro para que consuman carbos y suplementos, y entran en Chain Carbing.
+
+
+
+Domingo 03:
+-coto: paños microfibra: 18080 pesos.
+-verduleria: 9950 pesos.
+-Teglia Q:  20000 pesos.
+
+TINGLING vs CO2 vs UMBRAL NEURONAL vs TENSIÓN vs SPASMS:
+=================
+-ResearchToDo: la pregunta que me hice era: si el cerebro responde al bajo CO2 reduciendo su umbral excitatorio y aumentando la actividad neuronal, pasa algo similar con los músculos? Y la respuesta es el tingling y los espamos / contracturas.
+Y tiene sentido, porque eso es lo que pasa con Wim Hof breathing durante la fase de hiperventilación, que es justo cuando se "lava" el CO2 y queda solo el O2 y demás.
+El tingling serían disparos randómicos de los nervios en esas extremidades.
+Ahí se ve cómo las neuronas de los nervios responden al bajo CO2 activándose. Para generar CO2 con metabolismo y no morir.
+Se ve también durante la fase de hiperventilación que se acelera el pulso. Cada contracción del corazón genera CO2, y yo pienso que esa es su principal razón de ser.
+Confirmado:
+Googlié "spasms during hyperventilation". Primer resultado, un card:
+"""Acute hyperventilation
+Carpopedal spasm occurs when acute hypocarbia causes reduced ionized calcium and phosphate levels, resulting in involuntary contraction of the feet or (more commonly) the hands (see the image below). Chvostek or Trousseau signs may be positive because of hyperventilation-induced hypocalcemia.27 sept 2024
+emedicine.medscape.com/article/807277-clinical?form=fpf
+Hyperventilation Syndrome Clinical Presentation - Medscape Reference"""
+También dice:
+"""Wheezing may be heard because of bronchospasm from hypocarbia."""
+Y dice:
+"""Tremor, mydriasis, pallor, tachycardia, and other manifestations of anxiety can occur. Evidence of depersonalization or hallucination may be noted."""
+__
+Muy interesante que menciona Alucinaciones.
+    Indica que claramente hay una bajada del umbral de activación.
+
+
+VASOSPASM vs NERVIO VAGAL vs CO2 vs TENSIÓN COMPENSATORIA:
+======================
+-ResearchToDo: Caring Medical habla de cómo daños al.nervio vagal.pueden causar vasospasms. Por otro lado, en el artículo de Medscape de HVS hiperventilación, hablan de que la hypocarbia (bajo CO2 de hiperventilar) induce vasospasms.
+Luego recuerdo el video de Sukie youtuber de ejercicios para el nervio vagal, y resulta que son todos ejercicios de SHIFTING de TENSIÓN COMPENSATORIA.
+Como que lo que llaman Nervio Vagal es, creo yo, el R.A.S haciendo de las suyas para mantener el CO2, generando tensión.
+
+
+TOXINAS ACIDAS CAUSAN NECESIDAD DE IR HACIA ALKALOSIS POR ESO BAJA LA.CONTROL PAUSE:
+================
+-ResearchToDo: Es por esto que baja la Control Pause. No podemos albergar mucho CO2 en sangre porque algo pasa con el pH.
+
+
+Sábado 02 Nov:
+-pagofacil: 298050: aysa, edenor, swiss, cablev.
+-kiosko 2600.
+-cables sata: 4000.
+-palillos y pilas en super: 1300+6900

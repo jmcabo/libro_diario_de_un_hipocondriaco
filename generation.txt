@@ -1,0 +1,57 @@
+generation
+-CYP1A2
+     -rs2472304 da "GA" y tiene que ser C o T.
+      Entonces hay que preguntar a support qué
+      falló. Con Genera y con Seq lo mismo. O
+      aprender y entender a ver si me doy cuenta
+      solo con el archivo grande. No figuran
+      insertions ni deletions en CYP1A2 en
+      GenomeExplorer.
+-HLA-DR, HLA Type para Mold.
+-Narcolepsia, hay alelos? (por Coni).
+-IDI2
+-LPa
+-Methylation profile.
+       -THFR.  (MTHR?)
+-DMAPP: FDPS.
+-UGT1 A1: too much bilirubin.
+-COMT genes, and MET/MET variation for metabolizing and expelling cathecolamines. (WARRIOR vs WORRIER gene).
+-APOe, para alzheimer.
+-Ehlers Danlos
+-Reay2018: RERE, ZNF536, CYP26B1, RAI1, CNOT1: schiz vs retinoids.
+-PLIN1 rs894160 (High Carb Diet Preferred)  pero no me da ni G ni A, me da CC. Hubo algún deletion? vale la pena preguntar a support por chat? O generar el DNADiet report de GeneInformed a ver qué vale ahí?.
+--
+Quiero saber:
+-HLA Type (mold).
+-Hyperlipidemia: entender si no es nada.
+-Ferritina: medir yo y medir mamá.
+-Lead, Mold, etc.
+-ALDH, propensión a alcoholismo?
+-Adicción. Alcoholismo. Dopamina.
+-Curiosidades.
+--
+Las cosas que quiero por escrito en PDF, más formal que una grilla. Antes que no se pueda:
+@Buen reporte completo: de Silverberry o los sueltos de GeneInformed, o el completo de CGS.
+-Reporte HLA Type.
+-Reporte Ancestralidad pero bueno (elegir website).
+-Reporte sensibilidades, toxinas, detox.
+-Reporte Dieta.
+-Reporte Vitaminas (ojalá salga propensión a deficiencia a VitA que esa no es vitamina, lo mismo la E y la D).
+-Reporte cafeína, Fast vs Slow Metabolizer por escrito. Para que se motiven a dejar.
+-Reporte ALDH, y Detox en general.
+-Reporte Alcoholismo, y ALDH, etc.
+-Reporte Mold.
+-Reporte Lead.
+-Reporte Cloro. (hyperchloremia LPIN1)
+-Reporte Calcio. 
+-Reporte Pancreatitis, Hemocromatosis, y otras cosas lo quiero en PDF por escrito.
+-Reporte Medicaciones: tema meds de quimio, y Oxido Nitroso y Aspirina y Warfarina (y Estatinas). Esto por escrito para dar a doctores en caso de internación de cualquiera de nosotros.
+-Reporte APO-E, tenerlo en PDF. Somos E3/E4.
+-Reporte MTHFR.
+-Reporte Hyperlipidemia.
+-Reporte CYP1A2, que nos dan Tardive Dyskinesa/Akathisia esos remedios.
+-Reporte Mental Health, genes de COMT dopamina, etc. Epilepsia, Schizophrenia, etc. Igual tiene que ver más el.ambiente, pero apuesto que esos genes tienen que ver con glucosa o con toxinas (dopal), entonces son genes de metabolismo.
+-------
+Nadie debería tomar nunca ningún remedio. El ser humano no tiene deficiencia de remedios. Quiero igual por escrito cuáles no me pueden dar, cuantos más, mejor.
+
+

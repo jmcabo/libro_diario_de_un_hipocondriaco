@@ -1,0 +1,222 @@
+gastos7
+Domingo 24:
+-Super 1800 pesos.
+-Kiosko: 4400 pesos.
+-Verduleria: 5700 pesos.
+-Confiteria brownie, crumble: 17000 pesos.
+-Cable usb vend ambulante: 10mil pesos.
+
+
+Sábado 23:
+-confiteria usina cafetera, juramento tr: 1 brownie 2 cookies: 16750 + 2000 pesos.
+-ferreteria portalamparas con rosquita 2: 1500 pesos
+
+
+Viernes 22:
+-3 cookies en fomento a las 10hs: 8000 pesos.
+-1900 pesos tira cafiaspirinas para mamá.
+-masas pizza masa madre: 6400 pesos las 2.
+-kiosko: 2400 pesos 2 alfajores para mamá.
+
+CHEMOTAXIA vs BEZENE vs PHENOLS:
+===============================
+-ResearchToDo: Los fenómenos inter-celulares, como un Macrófago destruyendo una CancerCell, o un axón creciendo y conectando con una dendrita, pueden estar mediados por ChemoTaxia, es decir, por químicos liberados al medio inter-celular, al exterior de las células, y que guían el crecimiento de un axón o el camino de un macrófago.
+Pero es posible que sustancias con anillos de Benceno, como los PolyPhenoles / Polifenoles, los Carotenoides (beta caroteno, retinol, luteina), la aspirina (AcetylSalicilicAcid) y otros, disuelvan esos químicos de guía, de tropismo de quemotaxia, y confundan todo.
+    Entonces el benceno sería cancerígeno en el sentido de que los macrófagos del sistema inmune no pueden matar celulitas rotas. O no lo pueden hacer suficientemente rápido. 
+    Sobre todo si el consumo de comidas y bebidas con bencenos y fenoles es diario. El conservante BenzoatoDeSodio mezclado con ÁcidoCítrico produce benceno en gaseosas. Comer una mermelada y una gaseosa a la vez es malo si la mermelada tenía ácido cítrico como conservante. A veces la misma gaseosa trae ambos. Esto es calamitoso.
+    Y seguramente es neurotóxico.
+    Si las neuronas no pueden "buscarse" normalmente, uno se estupidiza tarde o temprano.
+    Buscando "is benzene neurotoxic" salen bastantes cosas.
+
+
+CHEMOTAXIS vs BACTERIA vs MEMBRANE TOXINS LIKE ISOPRENE AND CHOLESTEROL:
+===================
+-ResearchToDo: Bueno, si la.chemotaxia es jorobada por solventes de anillos de benceno, me imagino que también las barreras contra bacterias.
+    A ver, o sea, las bacterias se mantienen a distancia de nuestras células mientras están vivas. Por qué?
+   Y cuando una célula nuestra muere, la bacteria va y la morfa. Por qué?
+   Resulta que algo ocurre, no sé bien qué, en el perímetro de nuestras células, y actua como un DeadManSwitch.
+   Es decir, mientras nuestra célula está viva, está reactualizando algo en la membrana o re-largando químicos, un gradiente de químicos, al entorno exterior, en especial las Células Epiteliales. 
+   Las bacterias ven ese gradiente y se mantienen a distancia. O esa señal emitida desde el perímetro (puede ser hasta luz, o vibración "acústica" en resonancia con luz, mediada por moléculas con doublebonds insertadas en membrana, frescas no oxidadas, que se renuevan cuando se van oxidando, constantemente).
+   Algo de eso.
+   Cuando vos disolvés esos gradientes con sustancias con anillos de benceno, o jorobás esas membranas con aluminio, mercurio o carotenoides, las bacterias, hongos y parásitos empiezan a actuar, o al menos se confunden. Pasan cosas. 
+   Y el sistema inmune también dependía de seguir esos gradientes.
+   Hay un paper llamado: "Benzene Associated ImmunoSuppression and Chronic Inflamation In Humans: a systematic review".
+   Ocurre. Lo miden. No saben por qué.
+
+
+DOPAMINE ADRENALINE CATHECHOLS MAY BE ADAPTIVE:
+===============
+-ResearchToDo: Es posible que las cosas endógenas con anillos de benceno, como las catecolaminas, y otros catecoles, no sean toxinas.
+    Quizás cuando uno piensa en escribir en el Pizarrón solo piensa en la Tiza / Chalk, pero debe pensar además en el borrador.
+    Si le sacás el borrador al profe, luego de un rato, cuando llene el pizarrón de tiza, se le va a complicar seguir la clase.
+   Entonces, es posible que el cerebro use la Dopamina y otras cosas con anillos de benceno para borrar los gradientes de químicos cada tanto, para no confundir la chemotaxis.
+   Tal vez al dormir? 
+   Se lava el cerebro de químicos de tropismo al dormir?
+   Tal vez durante el día pero por partes?
+   Tal vez en micro cantidades pero muy localmente?
+    Los axones necesitan seguir gradientes para crecer hacia la dendrita. Y así como los axones hacen eso, debe haber montones de cosas que son críticas de seguir gradientes. 
+   Pero si la señal es muy fuerte, no hay señal.
+   Es como un código morse que es un pitido constante sin stops.
+   Es como la diferencia entre la música de una orquesta, que es un balance de sonidos y silencios, versus el caos de que los 20 integrantes de la orquesta toquen sus instrumentos todos a la vez. O el pianista smashee todas las notas a la vez en vez de solo en secuencias deliciosas para el oído.
+    O mejor, es como que el pianista no suelte rl pedal de sustain, y entonces cada nota que fue tocando anterior no deja de sonar. Pronto empieza la disonancia, y no hay más música.
+   Por eso intervenir con fármacos la Dopamina, el ciclo que cumple, es una calamidad. Es terrible.
+   Sea una toxina o sea simplemente un químico "borrador de pizarrón", no lo podés andar bloqueando o irritando a que se sobre secrete o se mantenga más tiempo actuando. Es una locura. 
+    Basta de flipear bits al azar en la cpu y de joder con los engranajes de la máquina mientras está andando. Es terrible lo que hacen con la neurofarmacología de moléculas pequeñas.
+    
+
+TRICÍCLICOS: 
+THORAZINE (CHLORPROMAZINE), BACTRIM, METHYLENEBLUE, AZATHIOPRINE,
+(FENOTIAZINAS)
+Phenoles: IMAOs (FENILALANINA!)
+===================
+-ResearchToDo: Son todos la misma porquería.
+Te inmunosuprimen.
+Te dan estupor, neurotóxicos.
+Joden la Dopamina.
+Son cancerígenos.
+Quizás el mecanismo de acción es alterar los gradientes que eran para chemotaxia.
+__
+Este estudio:
+"""Carcinogenicity of psychotropic drugs: 
+A systematic review of US Food 
+and Drug Administration–required 
+preclinical in vivo studies"""
+Dice:
+""""Results: Overall, new generation (atypical) antipsychotics (90%, 9/10 agents) and anticonvulsants (85.7%, 6/7 agents) 
+showed the highest evidence of carcinogenicity among psychotropic drugs classes assessed. Antidepressants (63.6%, 
+7/11) and benzodiazepines/sedative-hypnotics (70%, 7/10) were next, and stimulants (with the exception of methylphe-
+nidate) were last (25%, 1/4 agents). Overall, 71.4% of all drugs examined (30/42) showed evidence of carcinogenicity in 
+43.2% (38/88) of specific experimental studies.
+      Conclusions: US Food and Drug Administration–based analyses demonstrate that almost all atypical antipsychotics and 
+anticonvulsants are carcinogenic in animals, as are the majority of antidepressants and benzodiazepines and methylphe-
+nidate. These animal-based results are not sufficient to draw definitive conclusions in humans, but they provide data that 
+could be acknowledged in the informed consent process of clinical treatment."""
+
+
+AUTOFAGIA vs CHEMOTAXIA:
+========================
+-ResearchToDo: Sin duda la famosa autofagia no puede empezar si el medio intercelular está enrarecido y no se ven los gradientes (digestión en progreso) o si están disueltos y alterados por bencenos y demás cosas con anillos de benceno.
+    Algunos son: conservantes (BHT, benzoato de sodio, etc)., bisphenol (BPA), polifenoles, caroneoides (vitamina A, isotretinoin/retinoic acid, betacarotenos, luteína, lycopene) fenilalanina, tirosina/T3/T4, tricíclicos, fenotiazinas, azathioprine, bactrim, methylene blue, etc.
+
+
+JORDAN PETERSON vs MEANING:
+===========================
+-ResearchToDo: en el JRE 2180 dijo:
+""" If you Orient yourself with upward aim and you straddle the line between Order and Chaos [the ying and yan border], then things become MAXIMALLY MEANINGFUL around you.""".
+
+
+HEALING IS ONE'S RESPONSIBILITY:
+=============================
+-ResearchToDo: La gente tiene que entender que el paradigma aditivo, de agregar sustancias a una persona enferma, no la cura de sus malos hábitos, porque no hay antídoto para cosas como bencenos y fenoles en exceso en dieta y cigarrillo y bebidas y ambiente, más que el único antídoto de corregir tu vida. El paradigma substractivo. Quitar esas cosas de la dieta y del ambiente, de las paredes del cuarto, etc.
+    Y no hay remedio que te haga hacer el músculo que tenés que hacer.
+   Coaching/Kinesio/etc sí ayuda, a motivar, pero no te pueden hacer sacar músculo sosteniendo tu brazo, lo tenés que mover vos. Ayuda muchísimo a orientar a la gente en qué es bueno y qué es malo, sin duda. Pero vos mismo tenés que medir qué es malo para vos (ie Pulse Test, journal de comidas, etc).
+    En otras palabras: no se puede curar a alguien en contra de su voluntad.
+    Cómo mejorar la voluntad? Eso es otro tema.
+    Hay que ver Qualias.
+    Hay que estar en contacto con La Verdad.
+    Hacer cosas que tengan Bullshit Valve.
+    Lo opuesto es perder contacto con el significado. La gente haciendo Bullshit Jobs (como mencionaba Mattias Desmet).
+    Hay que estar en silencio, dejar que qualias que no sean palabras tras palabras nos impacten los sentidos, como en una mesa de café, o viendo el horizonte y oyendo los pájaros, o parque o playa o bosque. Lo opuesto es escuchar radio, podcast, noticiero TV, películas, series, gente en el trabajo, de la noche a la mañana, el pensamiento verbal de uno, etc. Palabras, palabras palabras.
+    De la noche a la mañana sin gaps.
+
+
+ESTAR INTEGRADO,
+DOING WHAT FEELS GOOD AS A PATH:
+===============================
+-ResearchToDo: If you don't do what feels good, then what the fuck are you doing?
+Think about it.
+What the fuck are you doing if you don't do what feels good?
+Are you doing what feels bad?
+Are you insisting on doing what feels bad?
+Are you doing what feels bad on purpose?
+What the fuck are you doing?
+__
+Estar integrado, es no luchar tanto con los impulsos de uno.
+Estar integrado es poder, más o menos, seguir el camino por el lado de lo que se siente bien.
+Cuando uno tiene vicios, eso es un problema.
+Los vicios nos hackearon el cerebro.
+Nuestro GPS mental es LoQueSeSienteBien.
+    El camino recto y el camino de lo que se siente bien pueden ser lo mismo.
+    Cuando estamos bajo vicios, ellos nos hackean la mente, y ya no podemos usar ese GPS de LoQueSeSienteBien para decidir las bifurcaciones del camino. 
+    Siguiendo el camino de vicios, terminamos en callejones sin salida, en puentes sin terminar, en villa culo a la vuelta de zona de guerra, en zona peligrosa. Terminamos lejos de donde quisimos ir alguna vez. Lejos del lugar que fijamos como destino aquella vez que tuvimos entusiasmo por algo, y que nos hizo tener una visión de deseo por un objetivo.
+    Lo otro que nos mete interferencia en el GPS es cuando negamos que algo que nos hace sentir bien, realmente nos hace sentir bien. Eso es no estar integrado. Puede ser caminar descalzo en la ciudad. Puede ser estudiar música en vez de números, o viceversa.
+    Estar sobreestimulados nos mete interferencia en GPS también. Para seguir las pequeñas cosas que nos entusiasman que van apareciendo en el camino, hay que estar sensibles a las pequeñas cosas. Estando sobreestimulados, perdemos sensibilidad. El control de brillo se pone saturado y el contraste corrido para compensar (offset y amplificación/escalado fuera de spec).
+   También estar intoxicados, mal alimentados, bajo un estado inflamatorio constante, nos hace insensibles a las pequeñas alegrías.
+   Repito, es importante ser sensible a las pequeñas alegrías diarias.
+   Un estado crónico de mala salud, sea por mente en DeleQueDele, CuerpoInflamado, BajaMusculaturaODebilidad, DoloresCrónicos, nos interfiere el GPS. A veces son dolores que pasan al pleno frente de la conciencia, obnubilando el resto de la experiencia subjetiva. A veces es un estado general de inflamación que obnubila de la misma manera.
+    Es decir, a veces es una sola nota que suena muy fuerte aturdiendo (un dolor fuerte), a veces son todas las notas a la vez tapándose unas a otras (mucha inflamación generalizada). Ambas cosas cambian el Offset y Scaling (brillo y contraste) de la experiencia subjetiva. Se satura todo y no solo no vemos en HDR, no vemos tampoco en grayscale, vemos entonces en un blanco y negro saturados, sin detalles, sin la belleza de los detalles.
+    Se puede ilustrar con una imagen de La Gioconda en blanco y negro saturado. Probablemente sea una imagen que no entusiasme.
+     Finalmente,
+     y esto es importante,
+     la manera en que lo Divino nos guía es interna. Tiene que ver con este GPS de LoQueSeSienteBien.
+     Cuando uno está obnubilado, no va a poder escuchar esa guía interna.
+    Todoa hablan de Destino o de llevar una vida de Propósito.
+    Digo en este párrafo, que como el Propósito no lo conocemos del todo, porque no vemos muy muy adelante, y solo lo Divino ve más adelante y las ramificaciones de las posibilidades del ensamble de Destinos, hay que escuchar. Y para escuchar hay que sentir. Y para sentir hay que estar sensible. Y para estar sensible hay que estar Integrado.
+    Quizás no es tan necesario estar intregrado para otras cosas. Pero digo que ayuda a estar sensible. Y que si la alegría no es una guía, estás en lo opuesto. Y lo opuesto es un camino de penurias.
+    Miles de personas pasan al lado de una pepita de oro, la levantan, la examinan, la ven deslustrada piensan que es de cobre y la vuelven a tirar. Finalmente, el que sabe ver el brillo y lo sano entre algo opaco y medio roto, el que la levanta y reconoce el oro entre la tierra, la levanta y no la suelta. El sensible. El que presta atención. 
+    Quiero decir que miles de personas ven milagros todos los días y siguen como si nada. No es por allí. Hay que hacer lo opuesto a seguir como si nada. Y lo opuesto no es saltear, pero tampoco es frenar todo.
+__
+   USE THE FORCE LUK: Si no estás Integrado, se complica el aplicar el "Use The Force, Luk". Cómo podés seguir tu intuición si tu inconciente es un campo minado. Por ejemplo, la gente que sigue bajadas de línea, que hace un esfuerzo por intentar que supuestas CausasJustas se hagan realidad, no se atreve a librepensar y considerar alternativas que contradigan la Causa. Incluso si la Causa está generando más daño y desorden. 
+    Gente así quiere forzar una conclusión.     
+    Dialogan con chicanas. 
+    Y sus inconcientes son campos minados, y hacen malabares de lógica para evitarlos. Una vez me dijeron que el PTSD y el Alzheimer no deben ser físicos porque eso sería discriminar a las personas [por sus cerebros]. La ebullición de emoción fue importante, al decir eso. En ese caso, la causa justa era que todo se soluciona con La Lucha Cultural [incluso los padecimientos mentales], y capaz que contradecir eso es contradecir la posibilidad de ganar. Ese caso no sé si es un pleno caso de falta de integración, pero va para el lado de que hay que ser Más Librepensador y tener menos campo minado mental, menos malabarismo de lógica, menos chicana.
+
+
+Jueves 21:
+-veterinaria: 750 pesos.
+-verduleria: 7000 pesos.
+-tea connection: 16mil pesos.
+-le di a una que pedia: 10mil pesos.
+
+Miercoles 20 (cont.):
+-carniceria 13mil creo.
+
+EVERYTHING IS MADE OUT OF WORDS: QUIERE DECIR QUALIA.
+===================
+-ResearchToDo: Cuando dicen "everything is made out of words" en un sentido de carverna de Platón, lo que quieren decir en realidad es que todo está hecho de Qualia.
+Por supuesto que le ponemos Handle a cada Qualia para poder "emitirlos"/"señalarlos" en sonidos y darlos vuelta en la cabeza en letras.
+    Pero son Qualia.
+    Si lo que existe es Mente, lo que existe es Qualia. Lo Qualia es lo que realmente existe "allá afuera".
+    Nos llega a la cabeza unos Qualia, pero eso es lo que hay.
+
+
+DESPERTAR NO ES OTRA COSA QUE PENSAR SIN PALABRAS. VER QUALIA COMO QUALIA.
+VER LA REALIDAD DIRECTO. VER COSAS QUE AUN NO TIENEN PALABRA O NOMBRE. DIRECTO.
+=============
+-ResearchToDo: Eso.
+Y pensar que todo este tiempo pensé que había algo más. Pero no. Es eso.
+Es "Pay Attention". (Jordan Peterson).
+Es ir rapidito de pensamiento en pensamiento antes que se forme la palabra. (yo)
+En un segundo, puedo sentir varios párrafos ya formados en mi mente, como un único Qualia, que me va a tomar media 30 minutos (1800 segundos) en plasmar en palabras. (yo).
+Es ver la TV Screen en vez de la Movie (Rupert Spira).
+Es Shikantaza (Dogen, Taisen Deshimaru), la práctica es el despertar, el despertar es la práctica. "Solo Sentarse". Tan difícil y tan fácil como suena.
+Es no estar asleep sin mirar (Osho).
+    Por supuesto que todos tienen capacidad de ver Qualia directamente. Pero no le ponen onda. Ni están acostumbrados a freezear los qualia hasta que se forme el símbolo nuevo de mentaleese y luego las palabras. O sí, pero, no es el deporte preferido. No está puesto el training ahí. Como escuchar música por décadas sin haberse tomado jamás el trabajo de separar la bola de sonidos en guitarra, bajo, violín, chelo y contar cantidad de voces del coro.
+   Eso es lo que se quiere decir con "están dormidos".
+__
+    Me imagino que alguien que no ve Qualias directamente, es más difícil de acceder por Logos. Como que tiene que remar un poco más. Pero si ves Qualia, te sale más fácil entender las Sincronicidades. Ver patrones emergiendo, que aun no tenían nombre. Encontrar "cómo se llama la obra" que describe la idea tras una saga de sincronicidades, etc. (O pensar serendipitosamente en la solución a algo, y quién sabe de dónde sale ese Qualia de la solución, si vino exclusivamente del cerebro o si algún que otro random number generator cerebral se tuneó de alguna manera, óptima. Que para alguien no "despierto" sería un despropósito tunear. O sea, capaz un cerebro no despierto recibe más claramente y straightforward las palabras tuneadas de random, el cerebro no se desvió mucho del molde. Pero solo esas palabras bien delimitadas de un conjunto fijo.
+En cambio, un cerebro que ve Qualias directamente, es más complicado formar tal palabra exacta, porque se fue desviando, pero más simple formar conceptos nuevos que aun no tienen definición en palabras, no verbales, novedosos. En assembler y código máquina en vez de en Pascal, o hasta microcode. Estos cerebros saben resonar además, y ver si esos Qualia son posta, checkearles el checksum digamos, el autocheckeo, la validación preview rápida interna abstracta.).
+    Tan simple como eso.
+    Bajo esa óptica, mucha más gente está despierta e Iluminada que la que se pensaba. Sobre todo hoy día que está de moda aprender idiomas y hacer cursos de cualquier cosa, cosas intelectuales y prácticas de destrezas manuales. Esas dos cosas estimulan observar Qualias novedosos por lo que son, tal como son.
+__
+Me preocupa que la gente sin percepción directa de Qualia delega mucho en la Autoridad, y tal vez es más fácil accederlos por los AntiLogos. Quizás les van directo a tunear palabras del set fijo y arquetipos del set fijo. Y es fácil así determinarlos. Les sacan conciencia. Les sacan AutoDeterminación más fácilmente. 
+Lo he visto, ahora que lo pienso.
+
+
+IS THE PINEAL GLAND A RANDOM (NUMBER) GENERATOR? DOES LOGOS GET THROUGH THERE? DOES IT USE LIGHT SENSING TO EXTRACT RANDOMENESS UNDER NORMAL CONDITIONS?
+===========
+-ResearchToDo: Dicen que secreta melatonina, que su responsabilidad es sensar el ambiente y dictar el ritmo circadiano.
+Pero también dicen algo de que emitiría DMT endógeno? 
+Y también dicen que cuando uno gira la cabeza, eso sesga los números al azar que uno recita. Le entea distinta luz según para qué lado mira? O cambia el campo magnético (compass) u otro sensor (acelerómetro)?
+Esto no es joda.
+Toda computadora tiene generadores de Random, incluso son útiles para algoritmos determinísticos (como qsort!) y cosas así. Pero también va a ser importante si uno quiere que la computadora sea menos determinista. Y si con pseudorandom no alcanza, hay que usar inputs con mucha variabilidad caprichosa (estocástica?, con entropía?). Por ejemplo, recuerdo leer de un generador de random hecho con camarita filmando la luz de velas, que variaba de forma caprichosa.
+    Y algo me dice que a Logos le gusta tunear los generadores de Random. Como que eso sí lo tiene permitido. Según las leyes implícitas del tuneo que plantea el Universo. Se dió así. Aquello que tenga una probabilidad, abre distintos caminos, distintos universos, y el que colapsa es el que se usa. Hasta no colapsar, se usan los N. Y las cosas que tienen probabilidades caprichosas no suelen estar a niveles usuales. A nivel macro no hay tanta caprichosidad. Estoy parado de pie escribiendo esto en el celu, y mis pies no van a hundirse e el piso, y el celu está bien agarrado, no se va a caer. Lo usual es lo usual. Entonces se mete en niveles inusuales, donde se hallen probabilidades 50/50 o similar. Existe la probabilidad de que fallen las maderitas del piso y me tropiece, pero es bajísima, no sirve. Quizás no sirve porque todo el universo que generaría colapsar en esas probabilidades bajas, sería una cascada muy caprichosa, mal estilo. No son muy conducentes esos universos que vienen después de activar un suceso de baja probabilidad. Las P condicionales que siguen a un evento de 0.001% de prob, no son muy interesantes.
+   Esto no es absoluto igual. A veces me imagino, hay que ir por esas ramas.
+__
+---> "LOGOS es "aquél que observa lo random". Donde haya algo random, ahí está Logos poniendo Mente para que colapse de una forma u otra, según valga mejor. Es un laburo de locos, gigante.
+     Lo pensaba mientras veía cómo crece una neurona, y cómo un macrófago se manda una célula cancerígena. Esos dos videitos. Esos macrófagos pueden ir en cualquier dirección. De todas las direcciones random.
+   Como el conejo que salta al azar para zafar del lobo, y así permite que algo lo guíe.
+   Como Luk cuando cierra los ojos, y acierta al tubo de la Death Star en su punto débil.
+    Cuando cerebro no ve, y es al azar, el "corazón" abre los ojos (en realidad el mismo cerebro, pero ahora tuneado). Y ahí puede entrar Logos. Ojo, Logos no puede depejar soluciones de intersecciones de todos los Universos para que uno no tropiece y a la vez las otras cosas que necesita. Pero algo sí.
+
+

@@ -1,0 +1,24 @@
+gastos9
+martes 3:
+-atm 100mil pesos.
+-taxi ida dentista 
+-dentista 40mil pesos.
+-taxi vuelta dentista 9400 pesos.
+
+viernes:
+atm 100mil.
+veterinaria, 750
+carniveria 19500
+kiosko 2800 pesos.
+veterinaria 20000 pesos.
+super 9600 pesos.
+
+sabado 7:
+carniceria: 16000 pesos
+kiosko: 2800 pesos.
+panaderia 13600 pesos.
+super 5200 pesos
+super 3800 pesos.
+atm 60000 pesos.
+le di 1000 pesos a una persona indigente.
+verduleria: 3700 pesos.

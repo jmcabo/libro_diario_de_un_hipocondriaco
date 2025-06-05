@@ -1,0 +1,179 @@
+gastos12
+jueves 13/mar:
+pet shop: 4500 pesos.
+confiteria: 6000 pesos.
+---
+miércoles 5/mar:
+-cabify clinica
+-brownie al paso: 11800 pesos.
+-taxi: 5800 pesos.
+
+domingo 2/mar:
+-5mil pesos clase zen pero no me gustó.
+-19200: dos crumble manzana y soda. No sé si me dio alergia corazòn.
+
+viernes 28:
+-980mil pesos: 4 sillas de campo, 1 silla cabecera con apoyabrazos, mesita de luz.
+-50mil: dentista.
+
+jueves 27:
+-230800 pesos efvo, heladera drean. Mamá puso 500mil pesos en forma de voucher de descuento. 
+-5usd app heart rate monitor (5000 pesos).
+
+
+miercoles 26:.
+--
+
+martes 25 feb:
+-quiro: 20mil
+-carniceria: 28mil
+
+lunes 24 feb:
+-farmacia: 42300, pero debo 100 pesos.
+-coto juego de sabanas, acolchado, almohada: 169300.
+
+CERRAR OJOS vs PALMING vs GLÁNDULA PINEAL vs UMBRAL EXCITATORIO SENSORIAL
+====================
+-> Por eso me la puse con la bici. Mucho sol. Ojos cerrados por poquito tiempo.
+Es posible que sea al revés. Pero que haya un efecto de escalado de brillo/contraste (ganancia y offset). Entonces dependiendo de los ojos perciban y envíen al hipotálamo (en NSQ), tamaño pupila, la luz exterior, el umbral neuroexcitatorio (action potential), será la manera en que la pineal capta random de luz no visible que penetra el cráneo (según el espectro). Solo una idea.
+-> Tengo la idea de que lo random viene de una luz interna que se percibe con la glándula pineal. Y por lo random se mete el mundo.
+
+PHOTOPHOBIA vs PODER VER EL SOL SIN DAÑAR vs IRIS EN RELACIÓN UMBRAL EXCITATORIO vs PRESIÓN INTRACRANEAL.
+==================
+La presión intracraneal se puede medir haciendo ultrasonido en los ojos, calculando el diámetro del Disco Óptico (caring medical con ross hauer mostró eso). 
+Cuando el nivel CO2 está mal, el umbral excitatorio neuronal está mal (Artour Rakhimov: libro YBAIBL). El umbral típico normal son 40mV, luego de lo cual se forwardea el impulso a las siguientes neuronas conectadas downstream.
+Cuando el umbral excitatorio está mal, el iris no puede cerrarse chiquito. Ocurre la photophobia.
+   No sé cómo, pero sin duda esto está en relación con el umbral sensorial de lo random interno, posiblemente de la glándula pineal, o si no de todo el cerebro en general.
+"""In 1988 physiologists from Duke University (Durham, the UK) suggested in their summary, “The brain, by regulating breathing, controls its own excitability” (Balestrino & Somjen, 1988).""" (rakhimov, p85).
+
+CO2 vs UMBRAL EXCITATORIO NEURONAL. POR QUÉ?
+[hay un Nobel ahí]
+================
+Creo que uno está en relación con el otro por los canales de calcio, y la [Ca].
+Y eso está en relación con el pH intracelular y extracelular.
+Y eso está en relación con... toxinas.
+Con pigmentos que si se oxidan cambian bruscamente el pH, porque de ser sustancias no ácidas pasan a ser ácidos de repente, bruscamente.
+Y eso está relación con... los citocromos P450.
+Y eso está en relación con... el monóxido atrapado en los citocromos.
+Y eso.. se quita con CO2 que los desplaza.
+     Entonces al subir el CO2, se desplaza el CO de los P450 y se reanuda la detoxificación de esos pigmentos, y el calcio intracelular vuelve a normalizarse. No está claro cómo el calcio se vuelca para rellenar el buffereo de pH que haga falta.
+    Ah, se pensava que los P450 estaban solo en hígado. Pero están en músculo, sobre todo en carne roja. Y están en neuronas.
+    Ver CYP26A1 y CYP26B1, responsables de hidroxilación del ácido retinoico en cerebro y otros (CYP26A1).
+    En la wiki del Bohr efdect indican que al incrementar el CO2, se decrementa el pH en sangre. Se hace más ácida. Por ácido carbónico supongo, pero hay que hacer zoom ahí. Uno pensaría que si se desplaza el CO y se reactivan los P450, se anula la acidez del Retinoic Acid y otros, aunque muchos citocromos convierten de Retinol a Retinoic Acid, para que pueda viajar soluble en agua (sangre) en vez de alcohol o grasa, y salir por riñón.
+
+CYP1A2 vs CAFFEINE vs AFLATOXIN vs MOLD vs PHOTOPHOBIA.
+================
+Algo hay ahí, pero me falta algún elemento que los vincule con el umbral excitatorio.
+Aunque... la cafeína reduce en un 30% el CBF, el flujo de sangre al cerebro.
+Por eso da migraña cuando se restaura el flujo normal de sangre.
+Eso por sí solo no explica, pero hay que checkear.
+Tal vez la Aflatoxin traba la salida de la cafeína por vía de detox por CYP1A2. Checkear.
+AUNQUE.. sin duda el volumen de sangre está en relación con la hidratación, y la hidratación está en relación con los electrolitos, y los electrolitos están en relación con... el umbral excitatorio (ACTION POTENTIAL). 
+Que sería dado por la concentración de Calcio y Sodio.
+No hay manera, no hay, de que la cafeína no afecte la concentración de sodio y calcio intra y extra celular en el cerebro. Por supuesto que se autoregula pero, eso fuerza otras variables.
+Todo a checkear.
+
+
+BOHR EFFECT vs CO vs CO2 vs O2:
+============================
+"""A decrease in pH (acidity) shifts the dissociation curve to the right while an increase in pH (alkalinity) shifts the dissociation curve to the left. At greater concentrations of hydrogen ions, hemoglobin stabilizes in the deoxygenated T-state. Therefore, as the pH decreases, and the CO2 increases, the hemoglobin affinity for oxygen will decrease. This inverse relationship is known as the Bohr effect and is evident when metabolically active tissue metabolizes glucose and oxygen into CO2 and organic acids. The hemoglobin then has a reduced affinity to oxygen and helps to deliver it to tissues in need.[5]"""
+www.ncbi.nlm.nih.gov/books/NBK539815/
+
+
+-----
+viernes 22 feb:
+-cabify.
+-juntada mono marce: 11mil pesos.
+
+---------;;
+
+miercoles 12 feb:
+debo orejita veterinaria monroe pasando vias
+
+jueves 13 feb:
+-alquiler: 500u deposito y ademas 1125mil pesos parte de febrero y todo marzo.
+
+viernes 14:
+seña Canelli cama: 220mil pesos.
+
+sabado 15:
+cama saly field 2 plazas: 400ypico en tarjeta 1 pago 
+
+lunes 17feb 2025:
+-juego cubiertos tramontina, y escurre platos: 82720 pesos en Cabildo y Roosevelt (Bazar Chef).
+
+martes 18 feb 2025:
+-cbio 3400 a 4035600 a 1180u/p.
+_______
+
+
+Viernes 24:
+-cabify juntada
+-birras juntada: 21200 pesos.
+-empanadas juntada: 10mil.
+-Franui juntada: 5mil.
+
+Sabado 25:
+-12000 cookies en olazabal.
+-le di 3000 a uno de la calle.
+-15mil pesos brownie con coni
+
+domingo:
+verduleria: 5600
+super: 4100.
+le di 6000 a uno de la calle.
+
+lunes 27:
+-carniceria 41000.
+-preste 300mil a armando gasista para reparar su partner, tren delantero.
+-veterinaria: 600 le debo 200 pesos:(!) (listo)
+-kiosko 7000.
+-8000 pesos pedales bici.
+
+martes 28:
+-reserva 200.
+<dia de locos 29>
+
+jueves 30:
+veterinaria: 1000 pesos (200 de antes).
+verduleria: 6400.
+cabify.
+clase de yoga: 90mil.
+-taxi: 14500.
+-le di plata a uno de la calle: 10mil pesos.
+
+viernes 31:
+-taxi 4500
+-cbio 4000->4684600
+-panera 2 brownies: 15000.
+-carniceria: 8800.
+
+sábado 01 FEB:
+-parque sarmiento entrada con la bici: 1500 pesos.
+-brownie en Ninina: 25000.
+-le di plata a uno de la calle 12mil.
+
+domingo 02 feb:
+-zurich 2 brownies y heineken tirada: 19mil pesos.
+-yucca: cerveza, 2 brownies y 2 cookies: 18500.
+
+lunes 3:
+-41500 carniceria.
+
+martes 4
+teglia: 18mil.
+finaer: 1238mil.
+magnesio: 50990 pesos.
+
+Miércoles 5:
+-cabify
+-traumato: 34mil pesos.
+-cabify.
+
+jueves 6:
+
+viernes 7:
+-debo 300 pesos, y puse 300 peeis veterinaria
+-10mil tartas manzanas
+-4500 veterinaria bolsitas y orejita.
+-33500 carniceria.
