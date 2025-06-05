@@ -1,7 +1,7 @@
 # libro_diario_de_un_hipocondriaco
 La idea era convertir esto a Fisiología De No Médicos Para No Médicos. Es un borrador, el BORRADOR 1. Muchos descubrimientos míos y 360 referencias o más a artículos papers y charlas en inglés.
 
-Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025
+Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los derechos reservados.
 
 También está en mi blog:   https://zenstep.com.ar/libro-diario-de-un-hipocondriaco
 
