@@ -1,3 +1,5 @@
+Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los derechos reservados.
+
 gastosEU
 Sábado20:
 -veterinaria 250 pesos, debo 100 pesos.

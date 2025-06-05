@@ -1,3 +1,5 @@
+Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los derechos reservados.
+
 9/12/23, 08:20 - Messages to yourself are end-to-end encrypted. No one else, not even WhatsApp, can read, listen to, or share them. Learn more.
 9/12/23, 08:20 - jota: Hellooooo
 10/4/23, 06:12 - jota: <Media omitted>

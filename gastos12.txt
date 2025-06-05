@@ -1,3 +1,5 @@
+Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los derechos reservados.
+
 gastos12
 jueves 13/mar:
 pet shop: 4500 pesos.
