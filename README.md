@@ -5,6 +5,10 @@ Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los der
 
 También está en mi blog:   https://zenstep.com.ar/libro-diario-de-un-hipocondriaco
 
+UPDATE: Borrador número 2 en progreso, sin tantas cosas personales:
+
+[libroNDescubrimientosEnCienciaMedicaPorCientificoAmateur_old9.pdf]
+
 A continuación, lo mismo que puse en el blog:
 
 --------------
