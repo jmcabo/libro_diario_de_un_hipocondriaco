@@ -7,7 +7,7 @@ También está en mi blog:   https://zenstep.com.ar/libro-diario-de-un-hipocondr
 
 UPDATE: Borrador número 2 en progreso, sin tantas cosas personales:
 
-[libroNDescubrimientosEnCienciaMedicaPorCientificoAmateur_old9.pdf]
+[libroNDescubrimientosEnCienciaMedicaPorCientificoAmateur_old9.pdf|libroNDescubrimientosEnCienciaMedicaPorCientificoAmateur_old9.pdf]
 
 A continuación, lo mismo que puse en el blog:
 
